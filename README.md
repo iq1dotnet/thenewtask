@@ -3,17 +3,17 @@
 ### Initialize a new Node.js project if you haven't already:
 npm init -y
 
-## Install Playwright and Axios if you haven’t already:
+### Install Playwright and Axios if you haven’t already:
 npm install playwright axios
 
-## Install dotenv npm
+### Install dotenv npm
 npm install dotenv
 
-## Ensure you have the necessary dependencies installed.
+### Ensure you have the necessary dependencies installed.
 Run the test with the Playwright test runner:
 
-## For API tests
+### For API tests
 npx playwright test checkPlanets.spec.js
 
-## For UI tests
+### For UI tests
 npx playwright testdatasnipperPricing.spec.js
